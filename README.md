@@ -5,9 +5,8 @@ Able to deposit, withdraw an amount to the account and also check the current ba
 To access the Main.java file, navigate to BankingApplication/Banking/src/com/practice
 
 Features include:
-1. User has two separate bank accounts, Checking and Savings
-2. Ability to terminate at any time
-3. Checks for invalid operations (Ex. Withdrawing more than the available balance)
+1.. Ability to terminate at any time
+2.. Checks for invalid operations (Ex. Withdrawing more than the available balance)
 
 Functionalities include:
 1. Deposit
